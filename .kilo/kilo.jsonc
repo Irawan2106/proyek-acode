@@ -1,0 +1,8 @@
+{
+  "$schema": "https://kilo.ai/schemas/kilo.json",
+  "model": "kilo/kilo-auto/free",
+  "permission": {
+    "edit": "allow",
+    "bash": "allow"
+  }
+}
